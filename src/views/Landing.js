@@ -31,11 +31,7 @@ export default function Landing() {
                   <h1 className="text-white font-semibold text-5xl">
                     Your story starts with us.
                   </h1>
-                  <p className="mt-4 text-lg text-gray-300">
-                    This is a simple example of a Landing Page you can build
-                    using Notus React. It features multiple CSS components based
-                    on the Tailwind CSS design system.
-                  </p>
+
                 </div>
               </div>
             </div>
@@ -129,9 +125,7 @@ export default function Landing() {
                   good to go. Just make sure you enable them first via
                   JavaScript.
                 </p>
-                <Link to="/" className="font-bold text-gray-800 mt-8">
-                  Check Notus React!
-                </Link>
+
               </div>
 
               <div className="w-full md:w-4/12 px-4 mr-auto ml-auto">
