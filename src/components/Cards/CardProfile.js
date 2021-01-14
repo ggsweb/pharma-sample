@@ -23,13 +23,13 @@ export default function CardProfile() {
                   <span className="text-xl font-bold block uppercase tracking-wide text-gray-700">
                     22
                   </span>
-                  <span className="text-sm text-gray-500">Friends</span>
+                  <span className="text-sm text-gray-500">Visits</span>
                 </div>
                 <div className="mr-4 p-3 text-center">
                   <span className="text-xl font-bold block uppercase tracking-wide text-gray-700">
                     10
                   </span>
-                  <span className="text-sm text-gray-500">Photos</span>
+                  <span className="text-sm text-gray-500">Prescriptions</span>
                 </div>
                 <div className="lg:mr-4 p-3 text-center">
                   <span className="text-xl font-bold block uppercase tracking-wide text-gray-700">
@@ -46,26 +46,23 @@ export default function CardProfile() {
             </h3>
             <div className="text-sm leading-normal mt-0 mb-2 text-gray-500 font-bold uppercase">
               <i className="fas fa-map-marker-alt mr-2 text-lg text-gray-500"></i>{" "}
-              Los Angeles, California
+              High Wycombe, England
             </div>
             <div className="mb-2 text-gray-700 mt-10">
               <i className="fas fa-briefcase mr-2 text-lg text-gray-500"></i>
-              Solution Manager - Creative Tim Officer
+              Store Manager
             </div>
             <div className="mb-2 text-gray-700">
               <i className="fas fa-university mr-2 text-lg text-gray-500"></i>
-              University of Computer Science
+              University of Pharma Science
             </div>
           </div>
           <div className="mt-10 py-10 border-t border-gray-300 text-center">
             <div className="flex flex-wrap justify-center">
               <div className="w-full lg:w-9/12 px-4">
                 <p className="mb-4 text-lg leading-relaxed text-gray-800">
-                  An artist of considerable range, Jenna the name taken by
-                  Melbourne-raised, Brooklyn-based Nick Murphy writes, performs
-                  and records all of his own music, giving it a warm, intimate
-                  feel with a solid groove structure. An artist of considerable
-                  range.
+                  An pharmacist of considerable range, Jenna the name taken by
+                  Melbourne-raised, Brooklyn-based Nick Murphy.
                 </p>
                 <a
                   href="#pablo"
